@@ -9,4 +9,5 @@ A: Yes
 git clone https://github.com/YuukoMiyu/AhoCorasickArray.git
 cd AhoCorasickArray
 make
+make run
 ```
