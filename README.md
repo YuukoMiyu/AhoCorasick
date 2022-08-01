@@ -1,13 +1,10 @@
-# Aho Corasick algorithm (but using array)
-
-Q: Why?<br />
-A: Yes
+# Aho Corasick algorithm
 
 ## Example
 
 ```bash
-git clone https://github.com/YuukoMiyu/AhoCorasickArray.git
-cd AhoCorasickArray
+git clone https://github.com/YuukoMiyu/AhoCorasick.git
+cd AhoCorasick
 make
 make run
 ```
